@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0; 
+ }
+ 
+.container{
+    background-color: rgb(29, 30, 30);
+    
+ }
+ .intro{
+    background-color: rgb(102, 99, 91);
+    width: 80vw;
+    height: 51vh;
+    margin: 20px;
+ }
+ .destiny{
+    background-color: rgb(174, 246, 222);
+    width: 80vw;
+    height: 151vh;
+    margin: 20px;
+ }
+ .wilderness{
+    background-color: rgb(174, 230, 211);
+    width: 80vw;
+    height: 50vh;
+    margin: 20px;
+ }
+ .sunset{
+    background-color: rgb(174, 234, 214);
+    width: 80vw;
+    height: 51vh;
+    margin: 20px;
+ }
